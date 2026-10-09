@@ -16,6 +16,7 @@
 
 ## 📂 项目结构 (Project Structure)
 
+```text
 cpp-rag-tutor/
 ├── src/                    # 核心源代码目录
 │   ├── app.py              # Streamlit 前端 UI 入口
@@ -26,6 +27,7 @@ cpp-rag-tutor/
 ├── requirements.txt        # Python 依赖包清单
 ├── run.bat                 # Windows 一键启动脚本
 └── README.md               # 项目说明文档
+```
 
 ## ⚡ 快速开始 (Quick Start)
 1. 克隆仓库

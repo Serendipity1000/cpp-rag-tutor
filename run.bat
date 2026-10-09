@@ -1,0 +1,1 @@
+C:\_Download\miniconda3\envs\py311\python.exe -m streamlit run src/app.py pause

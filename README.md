@@ -16,7 +16,6 @@
 
 ## 📂 项目结构 (Project Structure)
 
-```text
 cpp-rag-tutor/
 ├── src/                    # 核心源代码目录
 │   ├── app.py              # Streamlit 前端 UI 入口
